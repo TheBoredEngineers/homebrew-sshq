@@ -2,7 +2,7 @@ class Sshq < Formula
   desc "SSH Simplified for Devs"
   homepage "https://github.com/kshitijshettyyy/sshq"
   url "https://github.com/kshitijshettyyy/sshq/releases/download/v1.0.0/sshq"
-  sha256 "3360afe81336a9fb56dea4c56d3cbb1bc580092a396ebdf396159f0d04b4e5cb"
+  sha256 "088461fa339b6edd7dcd1fe5ada71b40b24e85304d385651c5115ff94adc9289"
   license "MIT"
 
   def install
